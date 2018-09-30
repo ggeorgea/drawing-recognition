@@ -1,2 +1,2 @@
 # drawing-recognition
-![A](Capture.png)
+![A](Capture.PNG)
