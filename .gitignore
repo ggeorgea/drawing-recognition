@@ -1,0 +1,10 @@
+__pycache__/
+descriptors/
+train_simplified/
+train_simplified.zip
+angel.csv
+testsave.npy
+test_simplified.csv
+angel.csv
+justDescriptors.npy
+sample_submission.csv
